@@ -21,7 +21,7 @@
 
 
 <b>Manual installation (no script):</b><br>
-<code>apt update && apt install git python3 -y && git clone https://github.com/coddrago/Heroku && cd Heroku && pip install -r requirements.txt && python3 -m hikka</code><br.>
+<code>apt update && apt install git python3 -y && git clone https://github.com/whymakser/Heroku-Makser && cd Heroku-Makser && pip install -r requirements.txt && python3 -m hikka</code><br.>
 <i>If you are on VPS\VDS, type <code>--proxy-pass</code> in the end of command to open SSH tunnel to your Hikka web interface, or use <code>--no-web</code> to complete setup in console</i><br>
 <br>
 <b>Some further details:</b>
