@@ -1,6 +1,7 @@
 # Heroku Changelog
 ## 🪐 Heroku 1.6.8
 
+- я сосал
 - Finally renamed to Heroku and new Emoji
 - many changes and improvements
 - many bugs fixed, work sped up
